@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554920692 source:d:\c projects\c-shibaji\sumofnumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
